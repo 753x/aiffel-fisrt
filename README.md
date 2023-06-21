@@ -1,7 +1,7 @@
 #first-repository
 ## git config
-add new contents
-<<<<<<< HEAD
+add new contents  
+<<<<<<< HEAD  
 brand New
 =======
 # This is a H1
